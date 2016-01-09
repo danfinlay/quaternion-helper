@@ -1,0 +1,28 @@
+{
+  "name": "quaternion-helper",
+  "version": "1.0.0",
+  "description": "A set of helper functions for working with quaternions and vectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyswatter/quaternion-helper.git"
+  },
+  "keywords": [
+    "quaternion",
+    "quaternions",
+    "3d",
+    "vector",
+    "math",
+    "helper",
+    "functions"
+  ],
+  "author": "Dan Finlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyswatter/quaternion-helper/issues"
+  },
+  "homepage": "https://github.com/flyswatter/quaternion-helper"
+}
